@@ -7,5 +7,5 @@ Feature: Publishing a picture on Facebook
     And enters their email and password
     Then they are taken to the Facebook homepage
     And they navigate to the Create post section
-    And they add a description to the picture"L'equipe MIage demo projet tic by Idriss , Ahmed , pierre , Raph , yolan "
+    And they add a description to the picture"Idriss,Pierre ,Raph ,ahmed ,yolan sont les noms de l'equipe projet tic MIAGE 2023 "
     Then they click the Post button
